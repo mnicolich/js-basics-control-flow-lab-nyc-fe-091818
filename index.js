@@ -6,7 +6,7 @@ function scuberGreetingForFeet(numberOfFeet) {
   } else if (numberOfFeet > 2000 && numberOfFeet < 2500) {
     return 'I will gladly take your thirty bucks.'
   } else if (numberOfFeet > 2500) {
-    return 'no can do'
+    return 'No can do'
   }
 }function ternaryCheckCity() {
   
