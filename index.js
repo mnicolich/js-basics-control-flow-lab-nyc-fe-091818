@@ -2,6 +2,6 @@
 function scuberGreetingForFeet(numberOfFeet) {
   // it's free
   if (numberOfFeet <= 400) {
-  return 'this one is on me!'
+  return 'This one is on me!'
   }
 }
