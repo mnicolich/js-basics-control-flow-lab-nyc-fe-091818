@@ -8,4 +8,6 @@ function scuberGreetingForFeet(numberOfFeet) {
   } else if (numberOfFeet > 2500) {
     return 'no can do'
   }
+}function ternaryCheckCity() {
+  
 }
